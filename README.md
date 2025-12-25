@@ -12,13 +12,4 @@ A simple and responsive portfolio built with **React.js**, **Framer Motion**, an
 ## 🛠️ Tech Stack
 React.js • Framer Motion • CSS
 
-## 📦 Installation
-```bash
-git clone https://github.com/your-username/portfolio.git
-cd portfolio
-npm install
-npm start
-```
 
-## 📬 Contact
-Email: your-email@example.com
